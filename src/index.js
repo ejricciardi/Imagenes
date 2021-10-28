@@ -13,8 +13,6 @@ const ejs = require('ejs');
 // Requerir multer para el manejo de archivos
 const multer = require('multer');
 
-
-
 // Inicializar express
 const app = express();
 
